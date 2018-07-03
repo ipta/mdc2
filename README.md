@@ -1,2 +1,2 @@
-# mdc
-A repository of the IPTA Mock Data Challenge datasets. 
+# IPTA Mock Data Challenge \#2
+
