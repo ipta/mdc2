@@ -1,7 +1,7 @@
 # International Pulsar Timing Array Mock Data Challenge \#2
 
-.. image:: ./images/ipta_logo.png
 
+![IPTA Logo](images/ipta_logo.png)
 
 The International Pulsar Timing Array (IPTA) is a galactic-scale gravitational-wave observatory that monitors an array of millisecond pulsars. The timing precision of these pulsars is such that one can measure the correlated changes in pulse arrival times accurately enough to search for the signature of a stochastic gravitational-wave background. As we add more pulsars to the array, and extend the length of our dataset, we are able to observe at ever lower gravitational-wave frequencies. As our dataset matures we are approaching a regime where a detection is expected, and therefore testing current data analysis tools is crucial, as is the development of new tools and techniques.
 
