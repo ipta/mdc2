@@ -1,6 +1,7 @@
 # International Pulsar Timing Array Mock Data Challenge \#2
 
-![IPTA Logo](../master/images/ipta_logo.png)
+.. image:: ./images/ipta_logo.png
+
 
 The International Pulsar Timing Array (IPTA) is a galactic-scale gravitational-wave observatory that monitors an array of millisecond pulsars. The timing precision of these pulsars is such that one can measure the correlated changes in pulse arrival times accurately enough to search for the signature of a stochastic gravitational-wave background. As we add more pulsars to the array, and extend the length of our dataset, we are able to observe at ever lower gravitational-wave frequencies. As our dataset matures we are approaching a regime where a detection is expected, and therefore testing current data analysis tools is crucial, as is the development of new tools and techniques.
 
@@ -18,11 +19,11 @@ Announcements
 Summary of MDC2 Datasets
 ------------------------
 
-|Group.Dataset   | Time Span | Freq (GHz)  | Observing Cadence |  Noise | Signals  |
+|Group.Dataset   | Time Span | Freq (MHz)  | Observing Cadence |  Noise | Signals  |
 |---|---|---|---|---|---|
-|g1.d1a(b) | 15 yrs | 1.44  | 2 weeks | WN | SB|
-|g1.d2a(b) | 15 yrs | 1.44  | 2 weeks | WN,RN | SS |
-|g1.d3a(b) | 15 yrs | 1.44  | 2 weeks | WN | SB+SS|
-|g2.d1 | 15 yrs | 0.8,1.44  | 2 weeks | - | - |
-|g2.d2 | 15 yrs | 0.8,1.44  | 2 weeks | - | - |
-|g2.d3 | 15 yrs | 0.8,1.44  | 2 weeks | - | - |
+|g1.d1a(b) | 15 yrs | 1440  | 2 weeks | WN | SB|
+|g1.d2a(b) | 15 yrs | 1440  | 2 weeks | WN,RN | SS |
+|g1.d3a(b) | 15 yrs | 1440  | 2 weeks | WN | SB+SS|
+|g2.d1 | 15 yrs | 800, 1440  | 2 weeks | - | - |
+|g2.d2 | 15 yrs | 800, 1440  | 2 weeks | - | - |
+|g2.d3 | 15 yrs | 800, 1440  | 2 weeks | - | - |
