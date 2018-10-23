@@ -3,7 +3,7 @@
 
 ![IPTA Logo](images/ipta_logo.png?raw=true)
 
-![IPTA Logo](mdc/images/ipta_logo.jpg)
+![IPTA Logo](/images/ipta_logo.jpg)
 
 ![IPTA Logo](mdc/blob/master/images/ipta_logo.jpg?raw=true)
 
