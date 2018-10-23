@@ -55,3 +55,4 @@ Since these tools are accessible widely, we do not prohibit their use in the MDC
 Entries based on an existing code base (unless submitted by the developer of that code) must add some significant new ability to the base code in order to warrant their submission, and, of course, cite the original developer. An example of such an addition could be a new way of modeling noise in a pulsar, or using the output from the original code to calculate a different statistic.
 
 If you have any questions please contact <a href="mailto:hazboun@uw.edu"> Jeffrey S. Hazboun</a>.
+
