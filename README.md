@@ -1,6 +1,6 @@
 # International Pulsar Timing Array Mock Data Challenge \#2
 
-![IPTA Logo](/images/ipta_logo.jpg)
+![IPTA Logo](/images/ipta_logo.jpg) ![IPTA Logo](/images/PTA_on_galaxy2a.jpg)
 
 The International Pulsar Timing Array (IPTA) is a galactic-scale gravitational-wave observatory that monitors an array of millisecond pulsars. The timing precision of these pulsars is such that one can measure the correlated changes in pulse arrival times accurately enough to search for the signature of a stochastic gravitational-wave background. As we add more pulsars to the array, and extend the length of our dataset, we are able to observe at ever lower gravitational-wave frequencies. As our dataset matures we are approaching a regime where a detection is expected, and therefore testing current data analysis tools is crucial, as is the development of new tools and techniques.
 
@@ -49,7 +49,7 @@ Among the many reasons for holding a MDC, two are relevant when discussing these
 In order to facilitate the first of these, the development of an entirely independent code for PTA analysis is not required for participation in the MDC, though obviously welcome and encouraged.
 
 Besides the existing analysis codes (<a href="http://tempo.sourceforge.net/">`TempoNest`</a>, `42`,
-<a href="https://github.com/jellis18/PAL2">`PAL2`</a>, <a href="https://github.com/vhaasteren/piccard">`picarrd`</a> and <a href="https://github.com/stevertaylor/NX01">`NX01`</a>...) there also exists a code built as a framework for constructing a PTA analysis developed by the NANOGrav collaboration, called <a href="https://github.com/nanograv/enterprise">`enterprise`</a>.
+<a href="https://github.com/jellis18/PAL2">`PAL2`</a>, <a href="https://github.com/vhaasteren/piccard">`piccard`</a> and <a href="https://github.com/stevertaylor/NX01">`NX01`</a>...) there also exists a code built as a framework for constructing a PTA analysis developed by the NANOGrav collaboration, called <a href="https://github.com/nanograv/enterprise">`enterprise`</a>.
 
 Since these tools are accessible widely, we do not prohibit their use in the MDC, but will categorize them differently when discussing them in any manuscript that summarizes the MDC.
 Entries based on an existing code base (unless submitted by the developer of that code) must add some significant new ability to the base code in order to warrant their submission, and, of course, cite the original developer. An example of such an addition could be a new way of modeling noise in a pulsar, or using the output from the original code to calculate a different statistic.
