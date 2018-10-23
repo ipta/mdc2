@@ -24,12 +24,12 @@ In the following table we summarize the contents of the 6 different datasets inc
 
 |Group.Dataset   | Time Span | Freq (MHz)  | Observing Cadence |  Noise | Signals  |
 |---|---|---|---|---|---|
-|g1.d1a(b) | 15 yrs | 1440  | 2 weeks | WN | SB|
-|g1.d2a(b) | 15 yrs | 1440  | 2 weeks | WN,RN | SS |
-|g1.d3a(b) | 15 yrs | 1440  | 2 weeks | WN | SB+SS|
-|g2.d1 | 15 yrs | 800, 1440  | 2 weeks | - | - |
-|g2.d2 | 15 yrs | 800, 1440  | 2 weeks | - | - |
-|g2.d3 | 15 yrs | 800, 1440  | 2 weeks | - | - |
+|g1.d1a(b) | 15 yrs | 1440  | 30 days | WN | SB|
+|g1.d2a(b) | 15 yrs | 1440  | 30 days | WN,RN | SS |
+|g1.d3a(b) | 15 yrs | 1440  | 30 days | WN | SB+SS|
+|g2.d1 | 15 yrs | 800, 1440  | 30 days | - | - |
+|g2.d2 | 15 yrs | 800, 1440  | 30 days | - | - |
+|g2.d3 | 15 yrs | 800, 1440  | 30 days | - | - |
 
 WN=white noise, RN=red noise, SB=stochastic background, SS=single source
 
