@@ -37,8 +37,8 @@ These files are referred to as `par` and `tim` files, respectively.
 The TOAs in the `tim` file contain Doppler shifts from the motion of the Earth in its orbit, relative proper motion between the solar system and the pulsar system and any orbital motion of the pulsar, if in a binary system. The `par` files contain the relevant parameters needed to construct such a model to remove these effects, but its construction is left to the participant.
 In addition, various clock corrections, observatory location coordinates and other observation dependent effects must be taken into account to build an adequate timing model for a given pulsar.
 There is a rich history in the pulsar timing community of scientist-written and maintained code bases useful for timing pulsars and, more recently, for doing gravitational wave analyses.
-While the participant is free to write their own code, there are three publicly available sets of software for modeling pulsar TOAs.
-The first is <a href="http://tempo.sourceforge.net/">`TEMPO`</a>, <a href="https://bitbucket.org/psrsoft/tempo2">`TEMPO2`</a> and <a href="https://github.com/nanograv/pint">`PINT`</a>.
+While the participant is free to write their own code, there are three publicly available sets of software for modeling pulsar TOAs,
+<a href="http://tempo.sourceforge.net/">`TEMPO`</a>, <a href="https://bitbucket.org/psrsoft/tempo2">`TEMPO2`</a> and <a href="https://github.com/nanograv/pint">`PINT`</a>.
 While new software development is welcome, the participant is encouraged to use one of these existing packages for building a pulsar timing model, and to focus their time on the data analysis algorithm development.
 
 Use of Existing Gravitational Wave Analysis packages
@@ -53,3 +53,5 @@ Besides the existing analysis codes (<a href="http://tempo.sourceforge.net/">`Te
 
 Since these tools are accessible widely, we do not prohibit their use in the MDC, but will categorize them differently when discussing them in any manuscript that summarizes the MDC.
 Entries based on an existing code base (unless submitted by the developer of that code) must add some significant new ability to the base code in order to warrant their submission, and, of course, cite the original developer. An example of such an addition could be a new way of modeling noise in a pulsar, or using the output from the original code to calculate a different statistic.
+
+If you have any questions please contact <a href="mailto:hazboun@uw.edu"> Jeffrey S. Hazboun</a>.
