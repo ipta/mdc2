@@ -15,7 +15,10 @@ The International Pulsar Timing Array (IPTA) is a galactic-scale gravitational-w
 Here we provide the second IPTA Mock Data Challenge. The purpose of this challenge is to foster the development of detection tools for pulsar timing arrays and to cultivate interaction with the international gravitational-wave community. For more information about the IPTA mock datasets see the
 <a href="https://ipta.github.io/mock_data_challenge/">MDC2 website</a> or the announcement on the <a href="https://ipta.github.io/mock_data_challenge/">ArXiv</a>.
 
-In order to participate in an MDC just go to the IPTA <a href="https://github.com/ipta/">GitHub page</a> and fork the repository with the MDC you would like to participate in. Also, send an email to the Data Challenge Working Group Co-Chair,<a href="mailto:hazboun@uw.edu"> Jeffrey S. Hazboun</a>. This will allow us to update participants about new MDC releases and the currently open datasets. This README will record any announcements made about ongoing MDCs.
+Participating in the MDC
+------------------------
+
+In order to participate in an MDC just <a href="https://guides.github.com/activities/forking/">fork</a> this repository. You will need to <a href="https://help.github.com/articles/signing-up-for-a-new-github-account/">register with GitHub</a> in order to do so. From your forked version of the repository you can clone or download the repo by copying the url using the `Clone or download` button. Please fork the repo, rather than just downloading directly from this version. This will allow us to keep track of how many people are interested in the MDC. Also, send an email to the Data Challenge Working Group Co-Chair,<a href="mailto:hazboun@uw.edu"> Jeffrey S. Hazboun</a>. This will allow us to update participants about new MDC releases and the currently open datasets. This README will record any announcements made about ongoing MDCs.
 
 Summary of MDC2 Datasets
 ------------------------
