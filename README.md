@@ -18,12 +18,12 @@ Here we provide the second IPTA Mock Data Challenge. The purpose of this challen
 Participating in the MDC
 ------------------------
 
-In order to participate in an MDC just <a href="https://guides.github.com/activities/forking/">fork</a> this repository. You will need to <a href="https://help.github.com/articles/signing-up-for-a-new-github-account/">register with GitHub</a> in order to do so. From your forked version of the repository you can clone or download the repo by copying the url using the `Clone or download` button. Please fork the repo, rather than just downloading directly from this version. This will allow us to keep track of how many people are interested in the MDC. Also, send an email to the Data Challenge Working Group Co-Chair,<a href="mailto:hazboun@uw.edu"> Jeffrey S. Hazboun</a>. This will allow us to update participants about new MDC releases and the currently open datasets. This README will record any announcements made about ongoing MDCs.
+In order to participate in an MDC just <a href="https://guides.github.com/activities/forking/">fork</a> this repository. You will need to <a href="https://help.github.com/articles/signing-up-for-a-new-github-account/">register with GitHub</a> in order to do so. From your forked version of the repository you can clone or download the repo using the `Clone or download` button. <b>Please fork the repo</b>, rather than just downloading directly from this version. This will allow us to keep track of how many people are interested in the MDC. Also, send an email to the Data Challenge Working Group Co-Chair,<a href="mailto:hazboun@uw.edu"> Jeffrey S. Hazboun</a>. This will allow us to update participants about new MDC releases and the currently open datasets. This README will record any announcements made about ongoing MDCs.
 
 Summary of MDC2 Datasets
 ------------------------
 
-In the following table we summarize the contents of the 6 different datasets included in MDC2. Details about the noise parameters injected into Group 1 can be found along with the datasets on the IPTA GitHub page in the form of a `json` file.
+In the following table we summarize the contents of the 6 different datasets included in MDC2. Details about the noise parameters injected into Group 1 can be found along with the datasets in the `group1` directory in the form of a `json` file.
 
 |Group.Dataset   | Time Span | Freq (MHz)  | Observing Cadence |  Noise | Signals  |
 |---|---|---|---|---|---|
