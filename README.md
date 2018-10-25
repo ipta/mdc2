@@ -13,14 +13,17 @@ The International Pulsar Timing Array (IPTA) is a galactic-scale gravitational-w
 ![IPTA Logo](/images/PTA_on_galaxy2a.jpg)
 
 Here we provide the second IPTA Mock Data Challenge. The purpose of this challenge is to foster the development of detection tools for pulsar timing arrays and to cultivate interaction with the international gravitational-wave community. For more information about the IPTA mock datasets see the
-<a href="https://ipta.github.io/mock_data_challenge/">MDC2 website</a> or the announcement on the <a href="https://ipta.github.io/mock_data_challenge/">ArXiv</a>.
+<a href="https://ipta.github.io/mock_data_challenge/">MDC2 website</a> or the announcement on the <a href="http://arxiv.org/abs/1810.10527">ArXiv</a>.
 
-In order to participate in an MDC just go to the IPTA <a href="https://github.com/ipta/">GitHub page</a> and fork the repository with the MDC you would like to participate in. Also, send an email to the Data Challenge Working Group Co-Chair,<a href="mailto:hazboun@uw.edu"> Jeffrey S. Hazboun</a>. This will allow us to update participants about new MDC releases and the currently open datasets. This README will record any announcements made about ongoing MDCs.
+Participating in the MDC
+------------------------
+
+In order to participate in an MDC just <a href="https://guides.github.com/activities/forking/">fork</a> this repository. You will need to <a href="https://help.github.com/articles/signing-up-for-a-new-github-account/">register with GitHub</a> in order to do so. From your forked version of the repository you can clone or download the repo using the `Clone or download` button. <b>Please fork the repo</b>, rather than just downloading directly from this version. This will allow us to keep track of how many people are interested in the MDC. Also, send an email to the Data Challenge Working Group Co-Chair,<a href="mailto:hazboun@uw.edu"> Jeffrey S. Hazboun</a>. This will allow us to update participants about new MDC releases and the currently open datasets. This README will record any announcements made about ongoing MDCs.
 
 Summary of MDC2 Datasets
 ------------------------
 
-In the following table we summarize the contents of the 6 different datasets included in MDC2. Details about the noise parameters injected into Group 1 can be found along with the datasets on the IPTA GitHub page in the form of a `json` file.
+In the following table we summarize the contents of the 6 different datasets included in MDC2. Details about the noise parameters injected into Group 1 can be found along with the datasets in the `group1` directory in the form of a `json` file.
 
 |Group.Dataset   | Time Span | Freq (MHz)  | Observing Cadence |  Noise | Signals  |
 |---|---|---|---|---|---|
