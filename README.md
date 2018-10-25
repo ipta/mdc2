@@ -13,7 +13,7 @@ The International Pulsar Timing Array (IPTA) is a galactic-scale gravitational-w
 ![IPTA Logo](/images/PTA_on_galaxy2a.jpg)
 
 Here we provide the second IPTA Mock Data Challenge. The purpose of this challenge is to foster the development of detection tools for pulsar timing arrays and to cultivate interaction with the international gravitational-wave community. For more information about the IPTA mock datasets see the
-<a href="https://ipta.github.io/mock_data_challenge/">MDC2 website</a> or the announcement on the <a href="https://ipta.github.io/mock_data_challenge/">ArXiv</a>.
+<a href="https://ipta.github.io/mock_data_challenge/">MDC2 website</a> or the announcement on the <a href="http://arxiv.org/abs/1810.10527">ArXiv</a>.
 
 Participating in the MDC
 ------------------------
