@@ -1,8 +1,6 @@
 # International Pulsar Timing Array Mock Data Challenge \#2
 
-<p align="center">
 ![IPTA Logo](/images/ipta_logo.jpg)   
-</p>
 
 Announcements
 -------------
