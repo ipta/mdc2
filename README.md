@@ -14,7 +14,9 @@ Announcements
 
 The International Pulsar Timing Array (IPTA) is a galactic-scale gravitational-wave observatory that monitors an array of millisecond pulsars. The timing precision of these pulsars is such that one can measure the correlated changes in pulse arrival times accurately enough to search for the signature of a stochastic gravitational-wave background. As we add more pulsars to the array, and extend the length of our dataset, we are able to observe at ever lower gravitational-wave frequencies. As our dataset matures we are approaching a regime where a detection is expected, and therefore testing current data analysis tools is crucial, as is the development of new tools and techniques.
 
-![IPTA Logo](/images/PTA_on_galaxy2a.jpg)
+<p align="center">
+  <img alt="IPTA Logo" src="/images/PTA_on_galaxy2a.jpg">
+</p>
 
 Here we provide the second IPTA Mock Data Challenge. The purpose of this challenge is to foster the development of detection tools for pulsar timing arrays and to cultivate interaction with the international gravitational-wave community. For more information about the IPTA mock datasets see the
 <a href="https://ipta.github.io/mock_data_challenge/">MDC2 website</a> or the announcement on the <a href="http://arxiv.org/abs/1810.10527">ArXiv</a>.
