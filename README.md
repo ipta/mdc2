@@ -8,13 +8,15 @@ Announcements
 -------------
 
   * MDC2 is open and accepting submissions.
-  * The deadline for submitting analyses for MDC2 has been extended to, <b>March, 2 2019</b>.
+  * The deadline for submitting analyses for MDC2 has been extended to, <b>March 22, 2019</b>.
   * The datasets were updated on <b>December, 1 2018</b> to reflect a more "usual" fit for the timing model. Please use these updated data sets in any submissions. Please contact the organizers if you have any questions or requests.
   * MDC2 is now closing on March 22nd.
 
 Submitting MDC2
 ---------------
-All submissions to the MDC2 must be sent to <a href="mailto:hazboun@uw.edu"> Jeffrey S. Hazboun</a> by the deadline listed above. Submissions need to include:
+All submissions to the MDC2 must be sent to <a href="mailto:hazboun@uw.edu"> Jeffrey S. Hazboun</a> by the deadline listed above.
+
+<b>Submissions need to include:</b>
 
   * A description of the methods used and any broader method validations.
   * Results from the open data set.
