@@ -8,9 +8,23 @@ Announcements
 -------------
 
   * MDC2 is open and accepting submissions.
-  * The deadline for submitting analyses for MDC2 is, <b>March, 15 2019</b>.
+  * The deadline for submitting analyses for MDC2 has been extended to, <b>March 22, 2019</b>.
   * The datasets were updated on <b>December, 1 2018</b> to reflect a more "usual" fit for the timing model. Please use these updated data sets in any submissions. Please contact the organizers if you have any questions or requests.
+  * MDC2 is now closing on March 22nd.
 
+Submitting MDC2
+---------------
+All submissions to the MDC2 must be sent to <a href="mailto:hazboun@uw.edu"> Jeffrey S. Hazboun</a> by the deadline listed above.
+
+<b>Submissions need to include:</b>
+
+  * A description of the methods used and any broader method validations.
+  * Results from the open data set.
+  * Results from the closed data set.
+  * A summary of results that includes plots of the results.
+
+The IPTA Mock Data Challenge
+----------------------------
 
 The International Pulsar Timing Array (IPTA) is a galactic-scale gravitational-wave observatory that monitors an array of millisecond pulsars. The timing precision of these pulsars is such that one can measure the correlated changes in pulse arrival times accurately enough to search for the signature of a stochastic gravitational-wave background. As we add more pulsars to the array, and extend the length of our dataset, we are able to observe at ever lower gravitational-wave frequencies. As our dataset matures we are approaching a regime where a detection is expected, and therefore testing current data analysis tools is crucial, as is the development of new tools and techniques.
 
@@ -34,7 +48,7 @@ In the following table we summarize the contents of the 6 different datasets inc
 |Group.Dataset   | Time Span | Freq (MHz)  | Observing Cadence |  Noise | Signals  |
 |---|---|---|---|---|---|
 |g1.d1a(b) | 15 yrs | 1440  | 30 days | WN | SB|
-|g1.d2a(b) | 15 yrs | 1440  | 30 days | WN,RN | SS |
+|g1.d2a(b) | 15 yrs | 1440  | 30 days | WN,RN | SB |
 |g1.d3a(b) | 15 yrs | 1440  | 30 days | WN | SB+SS|
 |g2.d1 | 15 yrs | 800, 1440  | 30 days | - | - |
 |g2.d2 | 15 yrs | 800, 1440  | 30 days | - | - |
